@@ -2,6 +2,6 @@ test
 
 Cold and dry, but everything is my favorite color
 
-The two moons may be a problem for Wolfman
+The two moons may be a problem for Wolfman. Who is Wolfman?
 
 Edit file on Github
